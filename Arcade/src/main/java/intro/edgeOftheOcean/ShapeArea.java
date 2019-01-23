@@ -12,7 +12,6 @@ Example:
 public class ShapeArea {
 
     int shapeArea(int n) {
-
         int results = 0;
         if (n == 1)
             results = 1;
