@@ -11,3 +11,9 @@ o
 ?src/main/java/intro/edgeOftheOcean/AdjacentElementsProduct.java,c/a/cad9750d49bb4ec0d99fc390d5b83b3b7afb621f
 a
 1src/main/java/intro/edgeOftheOcean/ShapeArea.java,e/e/ee78c32dded6d7ede977e9811988fe3ca5bc4dbf
+p
+@src/main/java/intro/edgeOftheOcean/AlmostIncreasingSequence.java,b/2/b227728a0342d97b32e5f8857eca8bb3d432ff6a
+m
+=src/main/java/intro/edgeOftheOcean/MakeArrayConsecutive2.java,5/3/53087c979cbec246c9524f4a689f9db8d048f51b
+i
+9src/main/java/intro/edgeOftheOcean/MatrixElementsSum.java,c/a/ca2de614741f54be253a1f29042122ae34dd4b9a
