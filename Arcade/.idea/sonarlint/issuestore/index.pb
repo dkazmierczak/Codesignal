@@ -33,3 +33,11 @@ e
 5src/main/java/intro/exploringTheWaters/AddBorder.java,2/7/2755c6e58378b16d41aa70862e047d5c3a586894
 f
 6src/main/java/intro/exploringTheWaters/AreSimilar.java,0/9/09d41608a1b2661764a091e54cb52f81f7c3c6ce
+q
+Asrc/main/java/intro/exploringTheWaters/PalindromeRearranging.java,6/6/6633742011bd3f48166e9dc9b0d836ebd1d56473
+g
+7src/main/java/intro/exploringTheWaters/ArrayChange.java,9/4/943ea19027d8ae9410718c731d5a71c5280e6a61
+k
+;src/main/java/intro/isalndOfKnowledge/AreEquallyStrong.java,5/b/5bc5ab51ce46ee04f970570de6bf00e1c97d1a7e
+y
+Isrc/main/java/intro/isalndOfKnowledge/ArrayMaximalAdjacentDifference.java,f/f/ff65cd8631871e4e499a5be9ce5456292b506cf0
